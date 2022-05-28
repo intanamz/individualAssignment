@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/intan/Pictures/Screenshots/Screenshot%20from%202022-05-11%2022-18-32.png" added="2022-05-11T14:18:38.341629Z" modified="2022-05-11T14:19:15.986319Z" visited="2022-05-11T14:18:38.341630Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-05-11T14:18:38.341633Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2022-05-11T14:19:15.986311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
